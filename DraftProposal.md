@@ -6,7 +6,7 @@
 
 **Omkar Katkade**
 
-**1****.****What is your issue of interest (provide sufficient background information)?**
+**1*.*What is your issue of interest (provide sufficient background information)?**
 
 The motivation behind this project was to gain hands-on experience in developing a complete machine learning project, as well as to explore deployment platforms such as Heroku. Additionally, the growing health issue of diabetes, caused by sedentary lifestyles, inspired the project. Early detection of diabetes through proper medical treatment can prevent severe health complications. By utilizing technology, such as machine learning, a predictive model can be built to determine if a patient has diabetes. This project not only provides a learning opportunity but also has the potential to benefit society.
 
