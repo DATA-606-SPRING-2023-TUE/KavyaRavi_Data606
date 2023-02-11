@@ -2,9 +2,9 @@
 
 **Team Members:**
 
-**Lakshmi Kavya Ravi**  
+**1. Lakshmi Kavya Ravi**  
 
-**Omkar Katkade**
+**2. Omkar Katkade**
 
 **1*.*What is your issue of interest (provide sufficient background information)?**
 
