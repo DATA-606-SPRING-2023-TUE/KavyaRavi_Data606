@@ -10,7 +10,7 @@
 
 The motivation behind this project was to gain hands-on experience in developing a complete machine learning project, as well as to explore deployment platforms such as Heroku. Additionally, the growing health issue of diabetes, caused by sedentary lifestyles, inspired the project. Early detection of diabetes through proper medical treatment can prevent severe health complications. By utilizing technology, such as machine learning, a predictive model can be built to determine if a patient has diabetes. This project not only provides a learning opportunity but also has the potential to benefit society.
 
-**2*.  Why is this issue important to you and/or to others?**
+**2*.  Why is this issue important to you and/or to others?*
 
 Diabetes is a serious health issue that affects millions of people worldwide. It is a chronic disease characterized by high levels of sugar (glucose) in the blood, and it can lead to serious health complications if not properly managed. The following are some reasons why diabetes is an important issue:
 
