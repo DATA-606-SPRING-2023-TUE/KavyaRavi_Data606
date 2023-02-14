@@ -1,4 +1,4 @@
-# **Draft Proposal- Diabetics Prediction**
+# **Final Proposal- Diabetics Prediction**
 
 **Team Members:**
 
