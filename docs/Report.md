@@ -1,4 +1,4 @@
-# Diabetes Prediction for Pregrnant Women and General Population
+# Diabetes Prediction for Pregnant Women and General Population
 
 1. PPT Link: https://docs.google.com/presentation/d/1g-lk28j1BySQKMQ4WP_yZVF_0u-S_hzC6M9iPuj2_Lo/edit#slide=id.gd251bb473_0_600
 2. YouTube Video Link: https://www.youtube.com/watch?v=fyHyX9l8FJ4
