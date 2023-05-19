@@ -97,41 +97,43 @@ There are many different methods for using machine learning algorithms for diabe
 
 # 5. Data Visualizations:
  
- Dataset 1: Pregnant Women Dataset.
- ![image.png](attachment:image.png)
- Inference: 35% of the population in this dataset in diabetic
+## Dataset 1: Pregnant Women Dataset.
+![image](https://github.com/DATA-606-SPRING-2023-TUE/KavyaRavi_Data606/assets/40602114/faf8b257-1144-4aa6-85c2-dc718f11163b)
+
+ ### Inference: 35% of the population in this dataset in diabetic
+ 
+ <br>
+ ### Pregnancies VS Diabetes
+ ![image](https://github.com/DATA-606-SPRING-2023-TUE/KavyaRavi_Data606/assets/40602114/96588e27-aa62-4a2a-ad0f-0c6165a56320)
+### Inference: Number of Pregnancies is directly proportinal to diabetes
  
  
- Pregnancies VS Diabetes
- ![image-2.png](attachment:image-2.png)
- Inference: Number of Pregnancies is directly proportinal to diabetes
- 
- 
- 
- BloodPressure VS Diabetes
- ![image-3.png](attachment:image-3.png)
- 
- 
- 
- BMI VS Diabetes
- ![image-4.png](attachment:image-4.png)
- Inference: Blood Pressure and BMI are directly proprtinal to diabets
+
+### BloodPressure VS Diabetes
+![image](https://github.com/DATA-606-SPRING-2023-TUE/KavyaRavi_Data606/assets/40602114/c7fb34c5-8b1d-41bc-aea7-5959157f190e)
  
  
  
- Dataset 2: General Population Dataset.
+### BMI VS Diabetes
+![image](https://github.com/DATA-606-SPRING-2023-TUE/KavyaRavi_Data606/assets/40602114/f9be3148-7e2d-4012-96ac-9fb12594721f)
+### Inference: Blood Pressure and BMI are directly proprtinal to diabets
  
- Patient Profile
- ![image-5.png](attachment:image-5.png)
+ 
+ 
+## Dataset 2: General Population Dataset.
+ 
+### Patient Profile
+![image](https://github.com/DATA-606-SPRING-2023-TUE/KavyaRavi_Data606/assets/40602114/ad6a7bae-1af4-492c-9f04-40cf506aa736)
 
  
- Patient Health Evaluation
- ![image-6.png](attachment:image-6.png)
- ![image-7.png](attachment:image-7.png)
+ ### Patient Health Evaluation
+![image](https://github.com/DATA-606-SPRING-2023-TUE/KavyaRavi_Data606/assets/40602114/a95a5835-8f08-4942-a772-d552ab270e7c)
+![image](https://github.com/DATA-606-SPRING-2023-TUE/KavyaRavi_Data606/assets/40602114/bf79179a-3bf2-45bb-9f1b-f29a3cf7a10d)
+
  
  
- Patient Habit Evaluation
- ![image-8.png](attachment:image-8.png)
+### Patient Habit Evaluation
+![image](https://github.com/DATA-606-SPRING-2023-TUE/KavyaRavi_Data606/assets/40602114/dc84cb68-53f2-4fd1-ae2f-528a54a09060)
 
 # 6. Machine Learning Models.
 
